@@ -1,0 +1,25 @@
+{
+    "name": "twitter-webdriver",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "dependencies": {
+        "puppeteer": "^1.18.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/takeokunn/twitter-webdriver"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/takeokunn/twitter-webdriver/issues"
+    },
+    "homepage": "https://github.com/takeokunn/twitter-webdriver#readme"
+}
